@@ -1,2 +1,1 @@
-# MIRA_HandsOn5.1
- 
+Hands-on Activity 5.1 - Containerization_MIRA   
